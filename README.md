@@ -77,11 +77,8 @@
   
   ## Mockup
  
-  [Demo Video](https://app.castify.com/view/cfc912c9-91cc-4ad3-898c-bf2ac8144686)
-  
-  HTML URL
-  
-  
+  [Demo Video](https://app.castify.com/view/71780ef7-4e7e-43b6-98f1-52ac45567e1a)
+   
   ## Test
   To run tests, run the following command:
   
