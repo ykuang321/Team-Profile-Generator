@@ -78,6 +78,9 @@
   ## Mockup
  
   [Demo Video](https://app.castify.com/view/71780ef7-4e7e-43b6-98f1-52ac45567e1a)
+
+  *Main Page:*
+  ![Main Page](./src/Main.jpg)
    
   ## Test
   To run tests, run the following command:
